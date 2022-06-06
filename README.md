@@ -7,8 +7,10 @@ Pasos para levantar este servicio:
 
 ### Descargar y descomprimir en la carpeta de ant el binario de ant
 - Dirigirse al directorio de ant `cd packages`
-- Descargar el comprimido `wget http://archive.apache.org/dist/ant/binaries/apache-ant-1.5.3-1-bin.zip`
-- Descomprimir  `unzip apache-ant-1.5.3-1-bin.zip apache-ant-1.5.3-1/`
+- Descargar el comprimido 
+  - linux `wget http://archive.apache.org/dist/ant/binaries/apache-ant-1.5.3-1-bin.zip`
+  - mac `curl -O http://archive.apache.org/dist/ant/binaries/apache-ant-1.5.3-1-bin.zip`
+- Descomprimir  `unzip apache-ant-1.5.3-1-bin.zip`
 
 ### Descargar el binario de java 1.4.2
 - Dirigirse al directorio de java `cd packages`
